@@ -2,6 +2,7 @@
 1. learn from Vitor Freitas's website, mainly the two passages:
 - [How to Upload Files With Django](https://simpleisbetterthancomplex.com/tutorial/2016/08/01/how-to-upload-files-with-django.html)
 - [Django Multiple Files Upload Using Ajax](https://simpleisbetterthancomplex.com/tutorial/2016/11/22/django-multiple-file-upload-using-ajax.html)
+
 2.the codes from sibtc's on GitHub
 - [simple-file-upload](https://github.com/sibtc/simple-file-upload)
 - [multiple-file-upload](https://github.com/sibtc/multiple-file-upload)
